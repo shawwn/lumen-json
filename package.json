@@ -1,0 +1,26 @@
+{
+  "name": "lumen-json",
+  "version": "0.0.0",
+  "description": "JSON.parse and JSON.stringify for Lua and JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawwn/lumen-json.git"
+  },
+  "keywords": [
+    "lumen",
+    "lycan",
+    "js",
+    "lua",
+    "json"
+  ],
+  "author": "Shawn Presser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shawwn/lumen-json/issues"
+  },
+  "homepage": "https://github.com/shawwn/lumen-json#readme"
+}
